@@ -1,13 +1,13 @@
 # PlayCache
-PlayCache est une bibliothèque de jeux développée en SwiftUI. Cette application permet de gérer, trier et afficher des informations sur divers jeux de société. L'application utilise une architecture MVC pour une meilleure organisation du code et une maintenance facilitée.
+📚 PlayCache est une bibliothèque de jeux développée en SwiftUI. Cette application permet de gérer, trier et afficher des informations sur divers jeux de société. L'application utilise une architecture MVC pour une meilleure organisation du code et une maintenance facilitée.
 
 ## Fonctionnalités
 
-- **Affichage de la liste des jeux** : Visualisez tous les jeux disponibles avec leurs détails.
-- **Recherche** : Trouvez facilement des jeux par nom ou description.
-- **Modification** : Modifiez les informations d'un jeu. 
-- **Tri** : Triez les jeux par différents critères (nom, nombre maximal de joueurs, nombre de cartes).
-- **Détails du jeu** : Consultez les informations détaillées de chaque jeu.
+- 📋 **Affichage de la liste des jeux** : Visualisez tous les jeux disponibles avec leurs détails.
+- 🔎 **Recherche** : Trouvez facilement des jeux par nom ou description.
+- ✏️ **Modification** : Modifiez les informations d'un jeu. 
+- 🔽 **Tri** : Triez les jeux par différents critères (nom, nombre maximal de joueurs, nombre de cartes).
+- 📑 **Détails du jeu** : Consultez les informations détaillées de chaque jeu.
 
 ## Architecture
 
